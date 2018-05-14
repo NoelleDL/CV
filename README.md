@@ -1,6 +1,6 @@
 ## Noelle D. Legrain<br>[LinkedIn](https://www.linkedin.com/in/noelle-l-bab91a160/) | [Medium](https://medium.com/@noellelegrain)
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 I'm just as surprised as you are. From inspiring spirituality in the workplace to full-stack software craftsman. I'm happiest as part of a team working toward a common goal. I value the people I collaborate with every day as much as the type of product we're creating together.
 
