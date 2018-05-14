@@ -1,50 +1,70 @@
-## Your Name
+## Noelle D. Legrain<br>[LinkedIn](https://www.linkedin.com/in/noelle-l-bab91a160/) | [Medium](https://medium.com/@noellelegrain)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
+
+I'm just as surprised as you are. From inspiring spirituality in the workplace to full-stack software craftsman. I'm happiest as part of a team working toward a common goal. I value the people I collaborate with every day as much as the type of product we're creating together.
+
+## Projects
+
+| Project | Description | Language | Test Framework | Links |
+|-------------|-------------|-------------|-------------|-------------|
+| Bank Tech Test | Program that allows user to deposit and withdraw funds and print balance. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/BankTechTestPractice)) |
+| Airport | Program simulating air traffic control. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/airport_challenge)) |
+| ApexAir | 3D Augmented Reality App | Swift | XCTest | ([Github](https://github.com/NoelleDL/ApexAir )) |
 
 ## Skills
 
-#### This Skill
+#### Program Management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+* As the Mission Integration Program Coordinator, I planned, organized, and led Mission Integration initiatives for approximately 3,500 employees at over 30 locations in the southwest Washington Region. This included a redesign and implementation of a regional awards system resulting in a 200% increase in awards submission; and facilitated training to newly hired staff with regard to Mission and Core Values in bi-monthly New Employee Orientation.
+* As the Family Readiness Group Leader,
 
-- Experience
-- Achievements
-- Evidence
+#### Stakeholder Management
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+*  In the role of Mission Integration Program Coordinator, I engaged stakeholders through the executive level including development of communication strategies; provided consultative guidance to stakeholders affecting improvements in representation of Mission and Core Values; and led three staff advisory committees supporting Mission program improvement.
+* While a Communications Specialist
+* As the Family Readiness Group Leader, I represented the needs of a diverse group of over 90 families to the chain of command.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2018 to May 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+## Education
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+#### Makers Academy (February 2018 to Present)
+
+A 16-week intensive development bootcamp, focusing on:
+
+- Object-oriented design
+- Test driven development
+- Agile/XP values
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- Swift
 
-#### Your University / College (start_date to end_date)
+#### McGill University (May 2002 to June 2005)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bachelor of Arts, Religious Studies
 
-#### Any other qualifications
+#### UNIVERSITE DE PARIS IV-SORBONNE (September 2001 to May 2002)
+
+- Certificate in French Language & History
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Providence Health & Services - St. Peter Hospital** (April 2014 - April 2016)    
+Mission Integration Program Coordinator
+
+**US Army’s 160th Special Operations Aviation Regiment** (July 2009 - July 2010)   
+Family Readiness Group Leader
+
+**Population Services International** (September 2007 - May 2008)<br>
+Communications Specialist
+
+**The Heritage Foundation** (September 2006 - August 2007)<br>
+Web Assistant
+
+
+## Interests
+- Downhill mountain biking
+- Road cycling
