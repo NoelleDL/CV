@@ -30,10 +30,6 @@ I'm just as surprised as you are. From inspiring spirituality in the workplace t
 
 #### Makers Academy (February 2018 to May 2018)
 
-## Education
-
-#### Makers Academy (February 2018 to Present)
-
 A 16-week intensive development bootcamp, focusing on:
 
 - Object-oriented design
