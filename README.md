@@ -11,7 +11,7 @@ I'm just as surprised as you are. From inspiring spirituality in the workplace t
 | Acebook | Facebook clone | Rails | RSpec | ([Github](https://github.com/NoelleDL/acebook-Underdogs)) |
 | Bank Tech Test | Program that allows user to deposit and withdraw funds and print balance. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/BankTechTestPractice)) |
 | Airport | Program simulating air traffic control. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/airport_challenge)) |
-| ApexAir | Final project, 3D Augmented Reality App | Swift | XCTest | ([Github](https://github.com/NoelleDL/ApexAir )) |
+| ApexAir | Final project, Augmented Reality App | Swift | XCTest | ([Github](https://github.com/NoelleDL/ApexAir )) |
 
 ## Skills
 
