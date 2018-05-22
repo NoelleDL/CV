@@ -2,34 +2,33 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I'm just as surprised as you are. From inspiring spirituality in the workplace to full-stack software developer. I want a position where I can continue the journey of crafting software - astonishing myself and others with what is possible. I'm happiest as part of a team working toward a common goal. I value the people I collaborate with every day as much as the type of product we're creating together.
+From inspiring spirituality in the workplace to full-stack software developer. I want a position where I can continue the journey of crafting software - astonishing myself and others with what is possible. I'm happiest as part of a team working toward a common goal. I value the people I collaborate with every day as much as the type of product we're creating together.
 
 ## Projects
 
 | Project | Description | Language | Test Framework | Links |
 |-------------|-------------|-------------|-------------|-------------|
-| Acebook | Facebook clone | Rails | RSpec | ([Github](https://github.com/NoelleDL/acebook-Underdogs)) |
-| Bank Tech Test | Program that allows user to deposit and withdraw funds and print balance. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/BankTechTestPractice)) |
-| Airport | Program simulating air traffic control. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/airport_challenge)) |
 | ApexAir | Final project, Augmented Reality App | Swift | XCTest | ([Github](https://github.com/NoelleDL/ApexAir )) |
+| Acebook | Facebook clone | Rails | RSpec | ([Github](https://github.com/NoelleDL/acebook-Underdogs)) |
+| Bank Account | Program that allows user to deposit and withdraw funds and print balance. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/BankTechTestPractice)) |
+| Airport | Program simulating air traffic control. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/airport_challenge)) |
 
 ## Skills
 
-#### Program Management
-
-* As the **Mission Integration Program Coordinator**, I planned, organized, and led Mission Integration initiatives for approximately 3,500 employees at over 30 locations in the southwest Washington Region. This included a redesign and implementation of a regional awards system resulting in a 200% increase in awards submission; and facilitated training to newly hired staff with regard to Mission and Core Values in bi-monthly New Employee Orientation.
-* As a **Family Readiness Group Leader**, I planned, executed, and led resiliency training and prepared for contingency operations.
-
-#### Stakeholder Management
-
-*  In the role of **Mission Integration Program Coordinator**, I engaged stakeholders through the executive level including development of communication strategies; provided consultative guidance to stakeholders affecting improvements in representation of Mission and Core Values; and led three staff advisory committees supporting Mission program improvement.
-* As a **Family Readiness Group Leader**, I identified and represented the needs of a diverse group of over 90 families to the chain of command. This included established and maintaining a communication network and engaging stakeholders via education programs.
-* While in the role of **Communications Specialist**, I curated the monthly internal newsletter which highlighted local programs in over 60 countries.
-
 #### Leadership
 
-* While a **student** at Makers Academy, I was a mentor for two incoming Makers students which included pair programming during the pre-course.
+* While a **student** at Makers Academy, I was a mentor for two incoming Makers students which included pair programming during the pre-course and co-led a group for female cohort members.
 * In the role of **Web Assistant**, I led a production team of three for a video messaging product aimed at policy makers on Capitol Hill, including coordinating production schedule and editing content.
+
+#### Problem-Solving
+
+* During the **Acebook** project, our team initially struggled and didn't know where to begin. I implemented daily retros and stand-ups to facilitate communication and identify a path forward. In the end, we produced an ([amazing product](https://github.com/NoelleDL/acebook-Underdogs)).
+* As the **Mission Integration Program Coordinator**, I was hired to revitalize a cherished yet lifeless awards program. I identified areas for improvement including creating an automated submission resulting in a 200% increase in awards submission.
+
+#### Communication
+
+*  In the role of **Mission Integration Program Coordinator**, I engaged stakeholders through the executive level including development of communication strategies; provided consultative guidance to stakeholders affecting improvements in representation of Mission and Core Values; and led three staff advisory committees supporting Mission program improvement.
+* While in the role of **Communications Specialist**, I curated the monthly internal newsletter which highlighted local programs in over 60 countries.
 
 ## Education
 
@@ -56,16 +55,18 @@ A 16-week intensive development bootcamp, focusing on:
 
 **Providence Health & Services - St. Peter Hospital** (April 2014 - April 2016)    
 Mission Integration Program Coordinator
+* Planned, organized, and led Mission Integration initiatives for approximately 3,500 employees at over 30 locations in the southwest Washington Region;
+* Facilitated training to newly hired staff with regard to Mission and Core Values in bi-monthly New Employee Orientation.
 
 **US Army’s 160th Special Operations Aviation Regiment** (July 2009 - July 2010)   
 Family Readiness Group Leader
+* Identified and represented the needs of a diverse group of over 90 families to the chain of command including establishing and maintaining a communication network and engaging stakeholders via education programs.
 
 **Population Services International** (September 2007 - May 2008)<br>
 Communications Specialist
 
 **The Heritage Foundation** (September 2006 - August 2007)<br>
 Web Assistant
-
 
 ## Interests
 - Downhill mountain biking
