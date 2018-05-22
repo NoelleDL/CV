@@ -25,11 +25,6 @@ From inspiring spirituality in the workplace to full-stack software developer. I
 * During the **Acebook** project, our team initially struggled and didn't know where to begin. I implemented daily retros and stand-ups to facilitate communication and identify a path forward. In the end, we produced an [amazing product](https://github.com/NoelleDL/acebook-Underdogs).
 * As the **Mission Integration Program Coordinator**, I was hired to revitalize a cherished yet lifeless awards program. I identified areas for improvement including creating an automated submission resulting in a 200% increase in awards submission.
 
-#### Communication
-
-*  In the role of **Mission Integration Program Coordinator**, I engaged stakeholders through the executive level including development of communication strategies; provided consultative guidance to stakeholders affecting improvements in representation of Mission and Core Values; and led three staff advisory committees supporting Mission program improvement.
-* While in the role of **Communications Specialist**, I curated the monthly internal newsletter which highlighted local programs in over 60 countries.
-
 ## Education
 
 #### Makers Academy (February 2018 to May 2018)
@@ -64,9 +59,11 @@ Family Readiness Group Leader
 
 **Population Services International** (September 2007 - May 2008)<br>
 Communications Specialist
+* Curated the monthly internal newsletter which highlighted local programs in over 60 countries.
 
 **The Heritage Foundation** (September 2006 - August 2007)<br>
 Web Assistant
+* Assisted web content management team with policy updates to the heritage.org website. 
 
 ## Interests
 - Downhill mountain biking
