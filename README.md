@@ -22,7 +22,7 @@ From inspiring spirituality in the workplace to full-stack software developer. I
 
 #### Problem-Solving
 
-* During the **Acebook** project, our team initially struggled and didn't know where to begin. I implemented daily retros and stand-ups to facilitate communication and identify a path forward. In the end, we produced an [amazing product](https://github.com/NoelleDL/acebook-Underdogs).
+* During the **Acebook** project at Makers Academy, our team initially struggled and didn't know where to begin. I implemented daily retros and stand-ups to facilitate communication and identify a path forward. In the end, we produced an [amazing product](https://github.com/NoelleDL/acebook-Underdogs).
 * As the **Mission Integration Program Coordinator**, I was hired to revitalize a cherished yet lifeless awards program. I identified areas for improvement including creating an automated submission resulting in a 200% increase in awards submission.
 
 ## Education
@@ -63,7 +63,7 @@ Communications Specialist
 
 **The Heritage Foundation** (September 2006 - August 2007)<br>
 Web Assistant
-* Assisted web content management team with policy updates to the heritage.org website. 
+* Assisted web content management team with policy updates to the heritage.org website.
 
 ## Interests
 - Downhill mountain biking
