@@ -8,10 +8,10 @@ From inspiring spirituality in the workplace to full-stack software developer. I
 
 | Project | Description | Language | Test Framework | Links |
 |-------------|-------------|-------------|-------------|-------------|
-| ApexAir | Final project, Augmented Reality App | Swift | XCTest | ([Github](https://github.com/NoelleDL/ApexAir )) |
-| Acebook | Facebook clone | Rails | RSpec | ([Github](https://github.com/NoelleDL/acebook-Underdogs)) |
-| Bank Account | Program that allows user to deposit and withdraw funds and print balance. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/BankTechTestPractice)) |
-| Airport | Program simulating air traffic control. | Ruby | RSpec | ([Github](https://github.com/NoelleDL/airport_challenge)) |
+| ApexAir | Final project, Augmented Reality App | Swift | XCTest | [Github](https://github.com/NoelleDL/ApexAir) |
+| Acebook | Facebook clone | Rails | RSpec | [Github](https://github.com/NoelleDL/acebook-Underdogs) |
+| Bank Account | Program that allows user to deposit and withdraw funds and print balance. | Ruby | RSpec | [Github](https://github.com/NoelleDL/BankTechTestPractice) |
+| Airport | Program simulating air traffic control. | Ruby | RSpec | [Github](https://github.com/NoelleDL/airport_challenge) |
 
 ## Skills
 
@@ -22,7 +22,7 @@ From inspiring spirituality in the workplace to full-stack software developer. I
 
 #### Problem-Solving
 
-* During the **Acebook** project, our team initially struggled and didn't know where to begin. I implemented daily retros and stand-ups to facilitate communication and identify a path forward. In the end, we produced an ([amazing product](https://github.com/NoelleDL/acebook-Underdogs)).
+* During the **Acebook** project, our team initially struggled and didn't know where to begin. I implemented daily retros and stand-ups to facilitate communication and identify a path forward. In the end, we produced an [amazing product](https://github.com/NoelleDL/acebook-Underdogs).
 * As the **Mission Integration Program Coordinator**, I was hired to revitalize a cherished yet lifeless awards program. I identified areas for improvement including creating an automated submission resulting in a 200% increase in awards submission.
 
 #### Communication
