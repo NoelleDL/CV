@@ -22,7 +22,7 @@ From inspiring spirituality in the workplace to full-stack software developer. I
 
 #### Problem-Solving
 
-* During the **Acebook** project at Makers Academy, our team initially struggled and didn't know where to begin. I implemented daily retros and stand-ups to facilitate communication and identify a path forward. In the end, we produced an [amazing product](https://github.com/NoelleDL/acebook-Underdogs).
+* During the **Acebook** project at Makers Academy, our team initially struggled and didn't know where to begin. I implemented daily retros and stand-ups to facilitate communication and identify a path forward. In the end, we produced a great product.
 * As the **Mission Integration Program Coordinator**, I was hired to revitalize a cherished yet lifeless awards program. I identified areas for improvement including creating an automated submission resulting in a 200% increase in awards submission.
 
 ## Education
